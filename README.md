@@ -25,5 +25,8 @@ O pipeline processa o faturamento total e o distribui por cargos (Sênior, Pleno
 ### 🚨 Gestão de Estoque Crítico
 O sistema identifica automaticamente produtos abaixo do estoque mínimo e projeta o **investimento financeiro total** necessário para a normalização do inventário.
 
+## ⚖️ Licença
+Este projeto está sob a licença MIT - veja o ficheiro [LICENSE](LICENSE) para detalhes.
+
 ---
 Desenvolvido por **Ana**, conectando aprendizados de Engenharia de Software com foco em dados.
